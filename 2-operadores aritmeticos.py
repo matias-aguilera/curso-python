@@ -22,3 +22,4 @@ print(5+5*2)
 
 print ("investigar otras operaciones aritmeticas y divisiones, raiz cuadrada")
 print("que es una division entera")
+print(25**(1/2))
