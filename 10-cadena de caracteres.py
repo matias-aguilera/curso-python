@@ -20,3 +20,10 @@ print(nombre)
 
 nombre= nombre.replace("a", "" )
 print(nombre)
+
+print(nombre[10]) #busca un espacio en especifico
+
+largo_cadena = len(nombre)
+print(largo_cadena)
+
+print (len("esto es una cadena de caracteres"))
